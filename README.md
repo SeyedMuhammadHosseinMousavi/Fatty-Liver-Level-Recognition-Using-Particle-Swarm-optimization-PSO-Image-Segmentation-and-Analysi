@@ -7,6 +7,8 @@
 
 ## Please cite below:
 Mousavi, Seyed Muhammad Hossein, et al. "Fatty liver level recognition using particle swarm optimization (PSO) image segmentation and analysis." 2022 12th International Conference on Computer and Knowledge Engineering (ICCKE). IEEE, 2022.
+![ground truth](https://github.com/user-attachments/assets/6a6854df-a41a-4a37-b6e6-a3908461ae5b)
+
 # Fatty Liver Level Recognition Using Particle Swarm Optimization (PSO) Image Segmentation
 
 This repository contains the implementation and details of the **Fatty Liver Level Recognition** system using **Particle Swarm Optimization (PSO)** and other image segmentation techniques. The proposed system efficiently segments microscopic liver images to detect fat deposits and classify fatty liver levels.
@@ -53,6 +55,7 @@ The system achieved remarkable results when compared with traditional segmentati
 - **Average IoU**: 90.7%
 
 The PSO algorithm consistently outperformed Otsu, Watershed, and K-Means in all metrics.
+![test](https://github.com/user-attachments/assets/327ec023-d785-4715-bcf5-2c1c329fb6e5)
 
 ---
 
