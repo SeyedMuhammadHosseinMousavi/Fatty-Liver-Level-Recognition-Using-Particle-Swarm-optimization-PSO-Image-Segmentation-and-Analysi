@@ -65,3 +65,6 @@ The PSO algorithm consistently outperformed Otsu, Watershed, and K-Means in all 
 ---
 
 ![icon](https://user-images.githubusercontent.com/11339420/206430469-69dde48b-7787-4fb7-a1c5-e9838d86ab86.jpg)
+- Link to the paper:
+- https://ieeexplore.ieee.org/document/9960108
+- DOI: [10.1109/ICCKE57176.2022.9960108](https://doi.org/10.1109/ICCKE57176.2022.9960108)
